@@ -1,0 +1,13 @@
+<svg id="icon_and_title" data-name="icon and title" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="16" viewBox="0 0 110 16">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 16px;
+        fill: #4b4b4b;
+        font-family: Verdana;
+      }
+    </style>
+  </defs>
+  <text id="Вечерние" class="cls-1" x="30.286" y="13.042">Вечерние</text>
+  <image id="home" width="14" height="12" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAMCAQAAAD4iURRAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAAEWEAABFhAYlmzoAAAAAHdElNRQfiBRoWIimdtyksAAAArUlEQVQY033OIW4CcRTE4W8JwTXcAIuoKadAI3E9ABBKajC9QTF4DBdAo5A1hCBqaiA0xZCQJYiSEvKvAJZdw4x5835vksdNBX0DDx5NjGRUNBEczdQFcRqVfDroaNj5zcKKta2WH7Gm7zSs2lt4sRcEf7rmTurw7GjqzUlI/G4seI30lH1pZ78zFBSIsEy1zo4R5YTUfU3NJkkXcm3e5hhy7igPRp6SzYclVvAP2y9HbquUwVgAAAAASUVORK5CYII="/>
+</svg>

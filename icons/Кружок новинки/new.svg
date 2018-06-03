@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="7" viewBox="0 0 24 7">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 12px;
+        fill: #fffefe;
+        font-family: Verdana;
+      }
+    </style>
+  </defs>
+  <text id="new" class="cls-1" x="-0.533" y="7.069">new</text>
+</svg>
